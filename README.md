@@ -1,8 +1,6 @@
 <h1 align="center"> Hello I'm renata</h1>
 
-<div align="center">
-    <a href="https://discord.com/users/382612768924368906" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/382612768924368906"></a>
-</div>
+
 
 ## Languages
 <div align="center">
